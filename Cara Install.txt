@@ -1,0 +1,8 @@
+1. unzip ke xampp\htdocs\nama_folder
+2. buka xampp\htdocs\nama_folder\db\ dan cari file db_dcw.sql kemudian upload ke phpmyadmin
+3. buka xampp\htdocs\nama_folder dan cari file koneksi.php, sesuaikan host,username,password dan nama database
+4. selesai
+
+
+
+~ www.ripanfauzi.com ~
